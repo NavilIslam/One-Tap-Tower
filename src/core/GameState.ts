@@ -1,0 +1,9 @@
+export enum GameState {
+  LOADING = 'LOADING',
+  MAIN_MENU = 'MAIN_MENU',
+  PLAYING = 'PLAYING',
+  PAUSED = 'PAUSED',
+  GAME_OVER = 'GAME_OVER',
+  SHOP = 'SHOP',
+  SETTINGS = 'SETTINGS'
+}
